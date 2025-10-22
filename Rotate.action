@@ -1,8 +1,0 @@
-# Goal : target rotation in radians (+CWW, -CW)
-float64 angle 
----
-# Result
-bool success
----
-# Feedback
-float64 remaining_angle
